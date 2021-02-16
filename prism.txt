@@ -1,0 +1,22 @@
+https://github.com/SinghDigamber/angular-material-login-template/tree/master/src/app/components/log-in
+
+ http://yashtest-001-site5.itempurl.com/api/Webapi/PostLogin
+
+12345
+lingala.yashwanth143@gmail.com
+
+
+
+{
+    "Result": "Success",
+    "User": {
+        "Baseurl": null,
+        "FullName": "yashtech sri",
+        "UserID": "@yash008",
+        "Email": "lingala.yashwanth143@gmail.com",
+        "UserImage": null
+    }
+}
+
+
+

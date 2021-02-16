@@ -1,0 +1,19 @@
+<div class="app-content-wrapper">
+  <div>
+    <mat-toolbar color="primary">
+      <div class="nav-tool-items w-100">
+        <a mat-button routerLink="home" class="float-left" routerLinkActive="active">Logo</a>
+        <a mat-button routerLink="login" class="float-right" routerLinkActive="active">Log Out</a>
+        <!-- <a mat-button mat-raised-button routerLink="register" routerLinkActive="active">Register</a> -->
+      </div>
+    </mat-toolbar>
+    <!-- <mat-toolbar color="primary">
+      <span class="nav-tool-items">
+        <a mat-button routerLink="login" routerLinkActive="active">Log Out</a>
+      </span>
+    </mat-toolbar> -->
+  </div>
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+</div>
